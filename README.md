@@ -1,0 +1,1 @@
+# xroad-catalog-mock-responses
