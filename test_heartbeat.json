@@ -1,0 +1,80 @@
+{
+	"appWorking": true,
+	"dbWorking": true,
+	"appName": "X-Road Catalog Lister",
+	"appVersion": "1.4.0",
+	"systemTime": [
+		2022,
+		3,
+		2,
+		13,
+		32,
+		58,
+		993000000
+	],
+	"lastCollectionData": {
+		"organizationsLastFetched": [
+			2022,
+			2,
+			27,
+			3,
+			13,
+			29,
+			715000000
+		],
+		"companiesLastFetched": [
+			2022,
+			3,
+			2,
+			4,
+			2,
+			12,
+			861000000
+		],
+		"membersLastFetched": [
+			2022,
+			3,
+			2,
+			3,
+			51,
+			27,
+			704000000
+		],
+		"subsystemsLastFetched": [
+			2022,
+			3,
+			2,
+			3,
+			51,
+			27,
+			704000000
+		],
+		"servicesLastFetched": [
+			2022,
+			3,
+			2,
+			3,
+			58,
+			31,
+			477000000
+		],
+		"wsdlsLastFetched": [
+			2022,
+			3,
+			2,
+			4,
+			0,
+			8,
+			629000000
+		],
+		"openapisLastFetched": [
+			2022,
+			3,
+			2,
+			3,
+			51,
+			32,
+			831000000
+		]
+	}
+}
