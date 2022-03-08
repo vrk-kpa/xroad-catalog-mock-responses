@@ -1,18 +1,18 @@
 {
   "organizationData":{
-    "businessCode":"0130729-0",
+    "businessCode":"012345-6",
     "created":[2020, 8, 31, 14, 27, 4, 18000000],
     "changed":[2020, 8, 31, 14, 27, 4, 18000000],
     "fetched":[2022, 2, 27, 3, 11, 40, 542000000],
     "removed":null,
     "organizationType":"Municipality",
     "publishingStatus":"Published",
-    "guid":"37962bfb-07a1-4f07-bad8-2b5c77e85451",
+    "guid":"37962bfb-a1-4f07-bad8-2b5ca45e85451",
     "organizationNames":[
       {
         "language":"fi",
         "type":"Name",
-        "value":"Pukkilan kunta",
+        "value":"Testiorganisaatio",
         "created":[2020, 8, 31, 14, 27, 4, 20000000],
         "changed":[2020, 8, 31, 14, 27, 4, 20000000],
         "fetched":[2022, 2, 27, 3, 11, 40, 544000000],
@@ -23,391 +23,22 @@
       {
         "language":"fi",
         "type":"Description",
-        "value":"Pukkilan kunta sijaitsee itäisellä Uudellamaalla Porvoonjokilaakson maalaismaisemassa. Laajat kumpuilevat peltoaukeat ja hyvin säilynyt kyläidylli tervehtivät tulijaa. Pukkila on viihtyisä n. 1900 asukkaan kotipaikka, johon kuuluu kuusi kylää: Kirkonkylä, Naarkoski, Savijoki, Syvänoja, Kantele ja Torppi. Yhteisöllisessä kunnassa on erinomaiset palvelut, paljon tapahtumia ja monipuolisia harrastusmahdollisuuksia. Päiväkoti Vekara ja Hyvinvointikeskus Onni tarjoavat korkeatasoisia palveluja keskitetysti.\n\nPyrimme kunnassamme toimimaan arvojemme rohkeus – läheisyys – sujuvuus mukaisesti. Arvot ovat tavoitetila, jota pidämme ohjenuorana kuntamme toiminnassa.",
+        "value":"Tämä on testiorganisaatio",
         "created":[2020, 8, 31, 14, 27, 4, 26000000],
         "changed":[2020, 8, 31, 14, 27, 4, 26000000],
         "fetched":[2022, 2, 27, 3, 11, 40, 548000000],
         "removed":null
-      },
-      {
-        "language":"fi",
-        "type":"Summary",
-        "value":"Pukkila on viihtyisä n. 1900 asukkaan kotipaikka, johon kuuluu kuusi kylää: Kirkonkylä, Naarkoski, Savijoki, Syvänoja, Kantele ja Torppi.",
-        "created":[2020, 8, 31, 14, 27, 4, 22000000],
-        "changed":[2020, 8, 31, 14, 27, 4, 22000000],
-        "fetched":[2022, 2, 27, 3, 11, 40, 546000000],
-        "removed":null
       }
     ],
-    "emails":[
-      {
-        "language":"fi",
-        "description":"",
-        "value":"palvelupiste@pukkila.fi",
-        "created":[2020, 8, 31, 14, 27, 4, 29000000],
-        "changed":[2020, 8, 31, 14, 27, 4, 29000000],
-        "fetched":[2022, 2, 27, 3, 11, 40, 549000000], "removed":null
-      }
-    ],
-    "phoneNumbers":[
-      {
-        "language":"fi",
-        "additionalInformation":"",
-        "serviceChargeType":"Chargeable",
-        "chargeDescription":"",
-        "prefixNumber":"+358",
-        "number":"401520460",
-        "created":[2020, 8, 31, 14, 27, 4, 32000000],
-        "changed":[2020, 8, 31, 14, 27, 4, 32000000],
-        "fetched":[2022, 2, 27, 3, 11, 40, 550000000],
-        "removed":null,
-        "finnishServiceNumber":false
-      }
-    ],
+    "emails":[],
     "webPages":[
       {
         "language":"fi",
-        "url":"http://www.pukkila.fi/index.php",
-        "value":"Pukkilan kunnan kotisivut",
+        "url":"https://www.testiorganisaatio.fi",
+        "value":"Testiorganisaation kotisivu",
         "created":[2020, 8, 31, 14, 27, 4, 34000000],
         "changed":[2020, 8, 31, 14, 27, 4, 34000000],
         "fetched":[2022, 2, 27, 3, 11, 40, 551000000],
-        "removed":null
-      }
-    ],
-    "addresses":[
-      {
-        "country":"FI",
-        "type":"Visiting",
-        "subType":"Street",
-        "streetAddressData":[
-          {
-            "streetNumber":"3",
-            "postalCode":"07560",
-            "latitude":"6724058.621",
-            "longitude":"422280.348",
-            "coordinateState":"Ok",
-            "streets":[
-              {
-                "language":"smn",
-                "value":"Onnintie",
-                "created":[2020, 8, 31, 14, 27, 4, 146000000],
-                "changed":[2020, 8, 31, 14, 27, 4, 146000000],
-                "fetched":[2022, 2, 27, 3, 11, 40, 638000000],
-                "removed":null
-              },
-              {
-                "language":"se",
-                "value":"Onnintie",
-                "created":[2020, 8, 31, 14, 27, 4, 133000000],
-                "changed":[2020, 8, 31, 14, 27, 4, 133000000],
-                "fetched":[2022, 2, 27, 3, 11, 40, 636000000],
-                "removed":null
-              },
-              {
-                "language":"en",
-                "value":"Onnintie",
-                "created":[2020, 8, 31, 14, 27, 4, 120000000],
-                "changed":[2020, 8, 31, 14, 27, 4, 120000000],
-                "fetched":[2022, 2, 27, 3, 11, 40, 634000000],
-                "removed":null
-              },
-              {
-                "language":"sv",
-                "value":"Onnintie",
-                "created":[2020, 8, 31, 14, 27, 4, 107000000],
-                "changed":[2020, 8, 31, 14, 27, 4, 107000000],
-                "fetched":[2022, 2, 27, 3, 11, 40, 632000000],
-                "removed":null
-              },
-              {
-                "language":"sms",
-                "value":"Onnintie",
-                "created":[2020, 8, 31, 14, 27, 4, 159000000],
-                "changed":[2020, 8, 31, 14, 27, 4, 159000000],
-                "fetched":[2022, 2, 27, 3, 11, 40, 640000000],
-                "removed":null
-              },
-              {
-                "language":"fi",
-                "value":"Onnintie",
-                "created":[2020, 8, 31, 14, 27, 4, 94000000],
-                "changed":[2020, 8, 31, 14, 27, 4, 94000000],
-                "fetched":[2022, 2, 27, 3, 11, 40, 622000000],
-                "removed":null
-              }
-            ],
-            "postOffices":[
-              {
-                "language":"en",
-                "value":"PUKKILA",
-                "created":[2020, 8, 31, 14, 27, 4, 59000000],
-                "changed":[2020, 8, 31, 14, 27, 4, 59000000],
-                "fetched":[2022, 2, 27, 3, 11, 40, 619000000],
-                "removed":null
-              },
-              {
-                "language":"fi",
-                "value":"PUKKILA",
-                "created":[2020, 8, 31, 14, 27, 4, 83000000],
-                "changed":[2020, 8, 31, 14, 27, 4, 83000000],
-                "fetched":[2022, 2, 27, 3, 11, 40, 620000000],
-                "removed":null
-              },
-              {
-                "language":"sv",
-                "value":"PUKKILA",
-                "created":[2020, 8, 31, 14, 27, 4, 56000000],
-                "changed":[2020, 8, 31, 14, 27, 4, 56000000],
-                "fetched":[2022, 2, 27, 3, 11, 40, 616000000],
-                "removed":null
-              },
-              {
-                "language":"smn",
-                "value":"PUKKILA",
-                "created":[2020, 8, 31, 14, 27, 4, 55000000],
-                "changed":[2020, 8, 31, 14, 27, 4, 55000000],
-                "fetched":[2022, 2, 27, 3, 11, 40, 615000000],
-                "removed":null
-              },
-              {
-                "language":"sms",
-                "value":"PUKKILA",
-                "created":[2020, 8, 31, 14, 27, 4, 58000000],
-                "changed":[2020, 8, 31, 14, 27, 4, 58000000],
-                "fetched":[2022, 2, 27, 3, 11, 40, 617000000],
-                "removed":null
-              },
-              {
-                "language":"se",
-                "value":"PUKKILA",
-                "created":[2020, 8, 31, 14, 27, 4, 53000000],
-                "changed":[2020, 8, 31, 14, 27, 4, 53000000],
-                "fetched":[2022, 2, 27, 3, 11, 40, 613000000],
-                "removed":null
-              }
-            ],
-            "municipalities":[
-              {
-                "code":"616",
-                "streetAddressMunicipalityNames":[
-                  {
-                    "language":"fi",
-                    "value":"Pukkila",
-                    "created":[2020, 8, 31, 14, 27, 4, 49000000],
-                    "changed":[2020, 8, 31, 14, 27, 4, 49000000],
-                    "fetched":[2022, 2, 27, 3, 11, 40, 610000000],
-                    "removed":null
-                  },
-                  {
-                    "language":"sv",
-                    "value":"Pukkila",
-                    "created":[2020, 8, 31, 14, 27, 4, 44000000],
-                    "changed":[2020, 8, 31, 14, 27, 4, 44000000],
-                    "fetched":[2022, 2, 27, 3, 11, 40, 608000000],
-                    "removed":null
-                  },
-                  {
-                    "language":"en",
-                    "value":"Pukkila",
-                    "created":[2020, 8, 31, 14, 27, 4, 46000000],
-                    "changed":[2020, 8, 31, 14, 27, 4, 46000000],
-                    "fetched":[2022, 2, 27, 3, 11, 40, 609000000],
-                    "removed":null
-                  }
-                ],
-                "created":[2020, 8, 31, 14, 27, 4, 42000000],
-                "changed":[2020, 8, 31, 14, 27, 4, 42000000],
-                "fetched":[2022, 2, 27, 3, 11, 40, 607000000],
-                "removed":null
-              }
-            ],
-            "additionalInformation":[
-              {
-                "language":"fi",
-                "value":"Hyvinvointikeskus Onni",
-                "created":[2020, 8, 31, 14, 27, 4, 51000000],
-                "changed":[2022, 2, 27, 3, 11, 40, 611000000],
-                "fetched":[2022, 2, 27, 3, 11, 40, 611000000],
-                "removed":null
-              }
-            ],
-            "created":[2020, 8, 31, 14, 27, 4, 39000000],
-            "changed":[2022, 2, 27, 3, 11, 40, 604000000],
-            "fetched":[2022, 2, 27, 3, 11, 40, 604000000],
-            "removed":null
-          }
-        ],
-        "postOfficeBoxAddressData":[],
-        "created":[2020, 8, 31, 14, 27, 4, 35000000],
-        "changed":[2020, 8, 31, 14, 27, 4, 35000000],
-        "fetched":[2022, 2, 27, 3, 11, 40, 556000000],
-        "removed":null
-      },
-      {
-        "country":"FI",
-        "type":"Postal",
-        "subType":"Street",
-        "streetAddressData":[
-          {
-            "streetNumber":"3",
-            "postalCode":"07560",
-            "latitude":"6724058.621",
-            "longitude":"422280.348",
-            "coordinateState":"Ok",
-            "streets":[
-              {
-                "language":"smn",
-                "value":"Onnintie",
-                "created":[2020, 8, 31, 14, 27, 4, 146000000],
-                "changed":[2020, 8, 31, 14, 27, 4, 146000000],
-                "fetched":[2022, 2, 27, 3, 11, 40, 638000000],
-                "removed":null
-              },
-              {
-                "language":"se",
-                "value":"Onnintie",
-                "created":[2020, 8, 31, 14, 27, 4, 133000000],
-                "changed":[2020, 8, 31, 14, 27, 4, 133000000],
-                "fetched":[2022, 2, 27, 3, 11, 40, 636000000],
-                "removed":null
-              },
-              {
-                "language":"en",
-                "value":"Onnintie",
-                "created":[2020, 8, 31, 14, 27, 4, 120000000],
-                "changed":[2020, 8, 31, 14, 27, 4, 120000000],
-                "fetched":[2022, 2, 27, 3, 11, 40, 634000000],
-                "removed":null
-              },
-              {
-                "language":"sv",
-                "value":"Onnintie",
-                "created":[2020, 8, 31, 14, 27, 4, 107000000],
-                "changed":[2020, 8, 31, 14, 27, 4, 107000000],
-                "fetched":[2022, 2, 27, 3, 11, 40, 632000000],
-                "removed":null
-              },
-              {
-                "language":"sms",
-                "value":"Onnintie",
-                "created":[2020, 8, 31, 14, 27, 4, 159000000],
-                "changed":[2020, 8, 31, 14, 27, 4, 159000000],
-                "fetched":[2022, 2, 27, 3, 11, 40, 640000000],
-                "removed":null
-              },
-              {
-                "language":"fi",
-                "value":"Onnintie",
-                "created":[2020, 8, 31, 14, 27, 4, 94000000],
-                "changed":[2020, 8, 31, 14, 27, 4, 94000000],
-                "fetched":[2022, 2, 27, 3, 11, 40, 622000000],
-                "removed":null
-              }
-            ],
-            "postOffices":[
-              {
-                "language":"en",
-                "value":"PUKKILA",
-                "created":[2020, 8, 31, 14, 27, 4, 59000000],
-                "changed":[2020, 8, 31, 14, 27, 4, 59000000],
-                "fetched":[2022, 2, 27, 3, 11, 40, 619000000],
-                "removed":null
-              },
-              {
-                "language":"fi",
-                "value":"PUKKILA",
-                "created":[2020, 8, 31, 14, 27, 4, 83000000],
-                "changed":[2020, 8, 31, 14, 27, 4, 83000000],
-                "fetched":[2022, 2, 27, 3, 11, 40, 620000000],
-                "removed":null
-              },
-              {
-                "language":"sv",
-                "value":"PUKKILA",
-                "created":[2020, 8, 31, 14, 27, 4, 56000000],
-                "changed":[2020, 8, 31, 14, 27, 4, 56000000],
-                "fetched":[2022, 2, 27, 3, 11, 40, 616000000],
-                "removed":null
-              },
-              {
-                "language":"smn",
-                "value":"PUKKILA",
-                "created":[2020, 8, 31, 14, 27, 4, 55000000],
-                "changed":[2020, 8, 31, 14, 27, 4, 55000000],
-                "fetched":[2022, 2, 27, 3, 11, 40, 615000000],
-                "removed":null
-              },
-              {
-                "language":"sms",
-                "value":"PUKKILA",
-                "created":[2020, 8, 31, 14, 27, 4, 58000000],
-                "changed":[2020, 8, 31, 14, 27, 4, 58000000],
-                "fetched":[2022, 2, 27, 3, 11, 40, 617000000],
-                "removed":null
-              },
-              {
-                "language":"se",
-                "value":"PUKKILA",
-                "created":[2020, 8, 31, 14, 27, 4, 53000000],
-                "changed":[2020, 8, 31, 14, 27, 4, 53000000],
-                "fetched":[2022, 2, 27, 3, 11, 40, 613000000],
-                "removed":null}
-            ],
-            "municipalities":[
-              {
-                "code":"616",
-                "streetAddressMunicipalityNames":[
-                  {
-                    "language":"fi",
-                    "value":"Pukkila",
-                    "created":[2020, 8, 31, 14, 27, 4, 49000000],
-                    "changed":[2020, 8, 31, 14, 27, 4, 49000000],
-                    "fetched":[2022, 2, 27, 3, 11, 40, 610000000],
-                    "removed":null
-                  },
-                  {
-                    "language":"sv",
-                    "value":"Pukkila",
-                    "created":[2020, 8, 31, 14, 27, 4, 44000000],
-                    "changed":[2020, 8, 31, 14, 27, 4, 44000000],
-                    "fetched":[2022, 2, 27, 3, 11, 40, 608000000],
-                    "removed":null
-                  },
-                  {"language":"en",
-                    "value":"Pukkila",
-                    "created":[2020, 8, 31, 14, 27, 4, 46000000],
-                    "changed":[2020, 8, 31, 14, 27, 4, 46000000],
-                    "fetched":[2022, 2, 27, 3, 11, 40, 609000000],
-                    "removed":null
-                  }
-                ],
-                "created":[2020, 8, 31, 14, 27, 4, 42000000],
-                "changed":[2020, 8, 31, 14, 27, 4, 42000000],
-                "fetched":[2022, 2, 27, 3, 11, 40, 607000000],
-                "removed":null
-              }
-            ],
-            "additionalInformation":[
-              {
-                "language":"fi",
-                "value":"Hyvinvointikeskus Onni",
-                "created":[2020, 8, 31, 14, 27, 4, 51000000],
-                "changed":[2022, 2, 27, 3, 11, 40, 611000000],
-                "fetched":[2022, 2, 27, 3, 11, 40, 611000000],
-                "removed":null
-              }
-            ],
-            "created":[2020, 8, 31, 14, 27, 4, 39000000],
-            "changed":[2022, 2, 27, 3, 11, 40, 604000000],
-            "fetched":[2022, 2, 27, 3, 11, 40, 604000000],
-            "removed":null
-          }
-        ],
-        "postOfficeBoxAddressData":[],
-        "created":[2020, 8, 31, 14, 27, 4, 240000000],
-        "changed":[2020, 8, 31, 14, 27, 4, 240000000],
-        "fetched":[2022, 2, 27, 3, 11, 40, 647000000],
         "removed":null
       }
     ]
