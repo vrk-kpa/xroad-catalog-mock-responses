@@ -1,0 +1,47 @@
+{
+  "organizationData":{
+    "businessCode":"012345-6",
+    "created":[2020, 8, 31, 14, 27, 4, 18000000],
+    "changed":[2020, 8, 31, 14, 27, 4, 18000000],
+    "fetched":[2022, 2, 27, 3, 11, 40, 542000000],
+    "removed":null,
+    "organizationType":"Municipality",
+    "publishingStatus":"Published",
+    "guid":"37962bfb-a1-4f07-bad8-2b5ca45e85451",
+    "organizationNames":[
+      {
+        "language":"fi",
+        "type":"Name",
+        "value":"Testiorganisaatio",
+        "created":[2020, 8, 31, 14, 27, 4, 20000000],
+        "changed":[2020, 8, 31, 14, 27, 4, 20000000],
+        "fetched":[2022, 2, 27, 3, 11, 40, 544000000],
+        "removed":null
+      }
+    ],
+    "organizationDescriptions":[
+      {
+        "language":"fi",
+        "type":"Description",
+        "value":"Tämä on testiorganisaatio",
+        "created":[2020, 8, 31, 14, 27, 4, 26000000],
+        "changed":[2020, 8, 31, 14, 27, 4, 26000000],
+        "fetched":[2022, 2, 27, 3, 11, 40, 548000000],
+        "removed":null
+      }
+    ],
+    "emails":[],
+    "webPages":[
+      {
+        "language":"fi",
+        "url":"https://www.testiorganisaatio.fi",
+        "value":"Testiorganisaation kotisivu",
+        "created":[2020, 8, 31, 14, 27, 4, 34000000],
+        "changed":[2020, 8, 31, 14, 27, 4, 34000000],
+        "fetched":[2022, 2, 27, 3, 11, 40, 551000000],
+        "removed":null
+      }
+    ]
+  },
+  "companyData":null
+}
