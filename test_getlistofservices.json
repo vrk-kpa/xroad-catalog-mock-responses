@@ -1,0 +1,37 @@
+{
+    "memberData": [
+        {
+            "date": [
+                2022,
+                1,
+                1,
+                0,
+                0
+            ],
+            "memberDataList": []
+        }
+    ],
+    "securityServerData": [
+        {
+            "serverCode": "Commercial",
+            "address": "example.com",
+            "memberClass": "COM",
+            "memberCode": "1234567-1",
+            "xroadInstance": "FI-TEST"
+        },
+        {
+            "serverCode": "Government",
+            "address": "example.com",
+            "memberClass": "GOV",
+            "memberCode": "1234567-2",
+            "xroadInstance": "FI-TEST"
+        },
+        {
+            "serverCode": "Municipal",
+            "address": "example.com",
+            "memberClass": "MUN",
+            "memberCode": "1234567-3",
+            "xroadInstance": "FI-TEST"
+        }
+    ]
+}
