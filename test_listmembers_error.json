@@ -1,0 +1,8 @@
+{
+  "error": {
+    "actor": "",
+    "code": "Server.ClientProxy.SslAuthenticationFailed",
+    "string": "Service provider did not send correct authentication certificate",
+    "detail": "683edc36-73c6-426e-8078-36d3daadec87"
+  }
+}
