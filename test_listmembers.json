@@ -61,6 +61,7 @@
 								"fetched": "2020-02-02T20:20:02.020+02:00",
 								"changed": "2020-02-02T20:20:02.020+02:00",
 								"serviceVersion": 2,
+								"serviceType": "SOAP",
 								"wsdl": {
 									"externalId": "some-wsdl-external-id",
 									"created": "2020-02-02T20:20:02.020+02:00",
@@ -107,7 +108,8 @@
 									"serviceCode": "unknown",
 									"created": "2020-02-02T20:20:02.020+02:00",
 									"fetched": "2020-02-02T20:20:02.020+02:00",
-									"changed": "2020-02-02T20:20:02.020+02:00"
+									"changed": "2020-02-02T20:20:02.020+02:00",
+									"serviceType": "UNKNOWN"
 								}
 							}
 						},
@@ -122,21 +124,24 @@
 										"serviceCode": "unknown",
 										"created": "2020-02-02T20:20:02.020+02:00",
 										"fetched": "2020-02-02T20:20:02.020+02:00",
-										"changed": "2020-02-02T20:20:02.020+02:00"
+										"changed": "2020-02-02T20:20:02.020+02:00",
+										"serviceType": "UNKNOWN"
 									},
 									{
 										"serviceCode": "removedService",
 										"created": "2020-02-02T20:20:02.020+02:00",
 										"fetched": "2020-02-02T20:20:02.020+02:00",
 										"changed": "2020-02-02T20:20:02.020+02:00",
-										"removed": "2020-02-20T02:02:20.202+02:00"
+										"removed": "2020-02-20T02:02:20.202+02:00",
+										"serviceType": "UNKNOWN"
 									},
 									{
 										"serviceCode": "unknownWithVersion",
 										"created": "2020-02-02T20:20:02.020+02:00",
 										"fetched": "2020-02-02T20:20:02.020+02:00",
 										"changed": "2020-02-02T20:20:02.020+02:00",
-										"serviceVersion": "1"
+										"serviceVersion": "1",
+										"serviceType": "UNKNOWN"
 									},
 									{
 										"serviceCode": "wsdlService",
@@ -144,6 +149,7 @@
 										"fetched": "2020-02-02T20:20:02.020+02:00",
 										"changed": "2020-02-02T20:20:02.020+02:00",
 										"serviceVersion": 2,
+										"serviceType": "SOAP",
 										"wsdl": {
 											"externalId": "some-wsdl-external-id",
 											"created": "2020-02-02T20:20:02.020+02:00",
@@ -157,6 +163,7 @@
 										"fetched": "2020-02-02T20:20:02.020+02:00",
 										"changed": "2020-02-02T20:20:02.020+02:00",
 										"serviceVersion": "1",
+										"serviceType": "OPENAPI",
 										"openapi": {
 											"externalId": "some-openapi-external-id",
 											"created": "2020-02-02T20:20:02.020+02:00",
