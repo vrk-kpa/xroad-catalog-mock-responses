@@ -1,0 +1,22 @@
+{
+   "listOfServices" : [
+      {
+         "endpointList" : [
+            {
+               "method" : "POST",
+               "path" : "/PostSomething/v1"
+            },
+            {
+               "method" : "GET",
+               "path" : "/ComeGetSome/v1"
+            }
+         ],
+         "memberClass" : "ORG",
+         "memberCode" : "1234567-1",
+         "serviceCode" : "mockService",
+         "serviceVersion" : null,
+         "subsystemCode" : "mockSubsystem",
+         "xroadInstance" : "DEV"
+      }
+   ]
+}
