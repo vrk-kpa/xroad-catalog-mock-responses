@@ -30,7 +30,24 @@
         "removed":null
       }
     ],
-    "emails":[],
+    "emails":[
+      {
+        "language":"fi",
+        "value":"invalid email address",
+        "created":[2020, 8, 31, 14, 27, 4, 26000000],
+        "changed":[2020, 8, 31, 14, 27, 4, 26000000],
+        "fetched":[2022, 2, 27, 3, 11, 40, 548000000],
+        "removed":null
+      },
+      {
+        "language":"fi",
+        "value":"test@example.com",
+        "created":[2020, 8, 31, 14, 27, 4, 26000000],
+        "changed":[2020, 8, 31, 14, 27, 4, 26000000],
+        "fetched":[2022, 2, 27, 3, 11, 40, 548000000],
+        "removed":null
+      }
+    ],
     "webPages":[
       {
         "language":"fi",
